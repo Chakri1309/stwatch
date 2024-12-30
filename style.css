@@ -1,0 +1,25 @@
+#divv{
+    text-align: center;
+    color: aquamarine;
+    background-color: azure;
+}
+#mylabel{
+    display:block;
+    text-align: center;
+   color: black;
+    border: 0cqh;
+    font-size: 10em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color:rgb(252, 252, 252);
+    background-color: aqua;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: hsl(214,100%,56%);
+}
